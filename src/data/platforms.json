@@ -297,6 +297,12 @@
       "guidelinesUrl": "https://sonnet.fm/resources"
     },
     {
+      "name": "SoundCarrot",
+      "icon": "soundcarrot",
+      "active": true,
+      "guidelinesUrl": "https://soundcarrot.com/about/linking-to-us/"
+    },
+    {
       "name": "Soundcloud",
       "icon": "soundcloud",
       "active": true,
