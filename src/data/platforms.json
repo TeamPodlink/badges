@@ -214,6 +214,11 @@
       "active": true
     },
     {
+      "name": "Podcasts Tracker",
+      "icon": "podcaststracker",
+      "active": true
+    },
+    {
       "name": "Podchaser",
       "icon": "podchaser",
       "active": true,
